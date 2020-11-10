@@ -87,7 +87,7 @@ for (var i = 0 ; i < pcc.length; i++) {
                     
                     document.getElementById("winner").innerHTML = phrase + num + " :" + outcome
 
-                    // Set a FOOOCKIN timer
+                    // Set a timer
 
                     timer = setInterval(function(){
                         timeElt.innerHTML = counter
